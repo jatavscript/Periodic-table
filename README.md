@@ -1,6 +1,7 @@
 # 🧪 Periodic Table Explorer
 
 An interactive and responsive **Periodic Table of Elements** built using **HTML**, **CSS**, **JavaScript**, and **JSON**. This project helps users learn about chemical elements with advanced filters and detailed hover information.
+
 > 🏆 **This project was developed as a part of the CodeCircuit Hackathon.**
 
 ---
@@ -34,14 +35,12 @@ An interactive and responsive **Periodic Table of Elements** built using **HTML*
 
 ## 🛠️ Technologies Used
 
-| Language     | Description                        |
-|--------------|------------------------------------|
-| **HTML**     | Structure and layout               |
-| **CSS**      | Styling and visual design          |
-| **JavaScript** | Interactive behavior and filters |
-| **JSON**     | Element data and properties        |
-
-
+| Language       | Description                        |
+|----------------|------------------------------------|
+| **HTML**       | Structure and layout               |
+| **CSS**        | Styling and visual design          |
+| **JavaScript** | Interactive behavior and filters   |
+| **JSON**       | Element data and properties        |
 
 ---
 
@@ -53,6 +52,15 @@ An interactive and responsive **Periodic Table of Elements** built using **HTML*
 
 ---
 
+## 🌐 Live Demo
+
+Explore the live version of the Periodic Table Explorer:
+
+**[Live Demo](https://jatavscript.github.io/Periodic-table/)**
+
+Feel free to interact with the periodic table to learn more about chemical elements!
+
+---
 
 ## 📌 Future Improvements (Optional Ideas)
 
@@ -67,11 +75,10 @@ An interactive and responsive **Periodic Table of Elements** built using **HTML*
 
 **Ajay Jatav**  
 Frontend Developer | Passionate about science and UI/UX  
-📧 Contact: [ajayjatav6282@gmail.com]
+📧 Contact: [ajayjatav6282@gmail.com](mailto:ajayjatav6282@gmail.com)
 
 ---
 
 ## 📄 License
 
 This project is **open-source** and free to use for educational and personal purposes.
-
